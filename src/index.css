@@ -53,5 +53,7 @@ a {
   }
   .btn-gen{
     padding: 14px 22px;
+    font-size: 10px;
+    font-weight: 800;
   }
 }

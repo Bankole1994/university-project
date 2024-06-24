@@ -85,8 +85,8 @@
     }
 
     .slide img{
-        width: 100px;
-        height: 100px;
+        width: 60px;
+        height: 60px;
         border: 50% solid #040476;
     }
 }
@@ -95,12 +95,12 @@
   .user-info {
     display: block;
     margin-bottom: 10px;
-    font-size: 12px;
+    font-size: 10px;
   }
   .user-info h3{
-    font-size: 16px;
+    font-size: 10px;
   }
   .slider p {
-    font-size: 12px;
+    font-size: 10px;
   }
 }

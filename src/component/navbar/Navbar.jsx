@@ -19,7 +19,7 @@ import Logo from '../../assets/‫image/Logo.png'
     }
 
     const closeMenu = () => {
-        menuRef.current.style.right="-350px"
+        menuRef.current.style.right="-180px"
     }
     
   return (
